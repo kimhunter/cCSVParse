@@ -7,7 +7,6 @@
  * This source code is BSD-licensed, see LICENSE for the complete license.
  *
  */
-#import <Cocoa/Cocoa.h>
 
 @interface CSVParser:NSObject {
 	int fileHandle;
